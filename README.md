@@ -1,0 +1,2 @@
+# -Sudoku-for-kid
+Le sudoku, est un jeu en forme de grille dont le but est de la remplir avec une série des chiﬀres (ou des lettres ou des symboles) tous diﬀérents qui ne se trouvent jamais plus d’une fois sur la même ligne, dans la même colonne ou dans la même région (également appelée «bloc», «groupe», «secteur »ou «sous-grille»), Puisque le jeu est destiné aux enfants, et pour simpliﬁer, la forme de sudoku sera une grille de 4 régions, les régions étant alors des carrés de 2x2 à remplir par des objets qui attirent l’attention de l’enfant.
